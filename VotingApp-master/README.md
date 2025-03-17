@@ -1,7 +1,7 @@
 # VotingApp - Springboot, Thymeleaf
 
  ### Take a look at this Application
-url: https://swapnilbamble1438.github.io/VotingApplication/
+url: https://github.com/babysoumya/VotingApp_SpringBoot
 
 ### It is SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
 ## It is a Voting Application. 
@@ -29,13 +29,13 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
+- In URI paste this url: 'https://github.com/babysoumya/VotingApp_SpringBoot.git
   -> Next
 -  Now in Local Destination
 
 -  proceed -> Next
 
-            Now only select VotingApp\MySpring_Boot_aa23v_VotingApp_Final
+            Now only select VotingApp\VotingApp_SpringBoot
             -> Finish
    
 -  If everything goes right Project will get successfully imported
@@ -102,6 +102,6 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 
-### Project Creator: Swapnil Bamble
+### Project Creator: Baby Soumya Mamidi
 
 
